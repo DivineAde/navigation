@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #0d0d11;
+  color: #fff;
+  font-family: 'MonumentExtended-Regular', sans-serif;
+}
+
+@font-face {
+  font-family: 'MonumentExtended-Regular';
+  src: url('./Fonts/MonumentExtended-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rosseta';
+  src: url('./Fonts/Rosseta.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
